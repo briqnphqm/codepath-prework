@@ -6,7 +6,6 @@
 
 http://g.recordit.co/cr2Su8mxqW.gif
 
-
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
 - [x] 2. User see's custom background color.
