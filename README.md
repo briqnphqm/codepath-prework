@@ -4,7 +4,7 @@
 `TODO://` Changes label text color with a button and background color with a button
 
 
-http://g.recordit.co/cr2Su8mxqW.gif
+![](http://g.recordit.co/cr2Su8mxqW.gif)
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
